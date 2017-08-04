@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "moment": "^2.18.1"
+  },
+  "name": "bytime",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "lex alexander <l.alexander10@gmail.com>",
+  "license": "MIT"
+}
